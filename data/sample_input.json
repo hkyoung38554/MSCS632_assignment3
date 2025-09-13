@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {"name": "Ava",  "prefs": {"Mon": "morning",   "Tue": "evening",   "Wed": "morning",   "Thu": "afternoon", "Fri": "evening",   "Sat": "morning",   "Sun": "afternoon"}},
+    {"name": "Ben",  "prefs": {"Mon": "evening",   "Tue": "morning",   "Wed": "evening",   "Thu": "morning",   "Fri": "afternoon", "Sat": "evening",   "Sun": "morning"}},
+    {"name": "Choi", "prefs": {"Mon": "afternoon", "Tue": "afternoon", "Wed": "afternoon", "Thu": "evening",   "Fri": "morning",   "Sat": "afternoon", "Sun": "evening"}},
+    {"name": "Dia",  "prefs": {"Mon": "morning",   "Tue": "morning",   "Wed": "evening",   "Thu": "afternoon", "Fri": "morning",   "Sat": "morning",   "Sun": "evening"}},
+    {"name": "Eli",  "prefs": {"Mon": "evening",   "Tue": "evening",   "Wed": "morning",   "Thu": "evening",   "Fri": "evening",   "Sat": "afternoon", "Sun": "morning"}},
+    {"name": "Fern", "prefs": {"Mon": "afternoon", "Tue": "morning",   "Wed": "afternoon", "Thu": "morning",   "Fri": "afternoon", "Sat": "evening",   "Sun": "afternoon"}},
+    {"name": "Gus",  "prefs": {"Mon": "morning",   "Tue": "afternoon", "Wed": "evening",   "Thu": "morning",   "Fri": "afternoon", "Sat": "morning",   "Sun": "evening"}},
+    {"name": "Hana", "prefs": {"Mon": "evening",   "Tue": "evening",   "Wed": "evening",   "Thu": "afternoon", "Fri": "morning",   "Sat": "evening",   "Sun": "morning"}},
+    {"name": "Ivy",  "prefs": {"Mon": "afternoon", "Tue": "morning",   "Wed": "morning",   "Thu": "evening",   "Fri": "afternoon", "Sat": "afternoon", "Sun": "afternoon"}}
+  ],
+  "requirement": 2,
+  "max_days": 5,
+  "shifts": ["morning", "afternoon", "evening"],
+  "days": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+}
